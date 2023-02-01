@@ -11,7 +11,7 @@
     <b style="color:crimson">連結尾端要加/query才能使用</b>
 </span>
 
-<h3>ANode.js 12 已不再支援:</h3>
+<h3 style="color:red">ANode.js 12 已不再支援:</h3>
 <strike><a style="font-size:16pt" href="https://dnsquery.azurewebsites.net/query/">dnsquery</a></strike>
 
 <h2>備註:</h2>
