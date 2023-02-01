@@ -12,7 +12,7 @@
 </span>
 
 <h3>直接使用</h3>
-<a style="font-size:16pt" href="https://dnsquery.azurewebsites.net/query/">dnsquery</a>
+<strike><a style="font-size:16pt" href="https://dnsquery.azurewebsites.net/query/">dnsquery</a></strike>
 
 <h2>備註:</h2>
 <span style="font-size:12pt">
